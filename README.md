@@ -15,3 +15,4 @@ You need to add API connnection details based on your environment to Log Analyti
 ![image](https://user-images.githubusercontent.com/18166822/107668629-8b6e7480-6c99-11eb-942f-5579ca3141b0.png)
 
 **Note!** API connection to the Log Analytics needs to be defined.
+![image](https://user-images.githubusercontent.com/18166822/107741169-4c7e0480-6d15-11eb-9923-01a5534f60c2.png)
