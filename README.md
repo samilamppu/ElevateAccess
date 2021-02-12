@@ -4,6 +4,8 @@ This repo contains Azure Logic App (Azure Sentinel Playbook) sample for ingestin
 More detailed planning is needed in the production instance for Logic Apps to handle data pulled from Cloud App Security API. This is just a sample to get started.
 
 ## Deployment
+[Config file](Ingest-MCAS-data-2.json)
+
 Copy Logic Apps as a raw and implement it as a code view in Azure Logic Apps. The following modifications are needed:
 
 * **Line 39** - insert tenant name
